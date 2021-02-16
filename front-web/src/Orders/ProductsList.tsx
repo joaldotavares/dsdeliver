@@ -11,7 +11,7 @@ function ProductsList({ products }: Props){
             <div className = 'orders-list-items'>
                 {products.map(product => (
                 <ProductCard key = {product.id} product = {product}/>
-                ))};
+                ))}
             </div>
         </div>
     );
