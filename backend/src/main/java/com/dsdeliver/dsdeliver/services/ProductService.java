@@ -16,6 +16,7 @@ public class ProductService {
 	
 	@Autowired
 	private ProductRepository repository;
+
 	
 	@Transactional(readOnly = true)
 	public List<ProductDTO> findAll(){
