@@ -36,11 +36,11 @@ is related to the order details, having an interface very well informed of the o
 
 - ### Requirements
 
-- It is ** necessary ** to have ** [Java 11] (https://www.java.com/) ** and ** [Spring Boot] (https://spring.io/) ** installed on computer.
-- It is ** necessary ** to have ** [Git] (https://git-scm.com/) ** installed and configured on the computer.
-- It is ** vital ** to have ** [Spring Tools Suites] (https://spring.io/tools) ** installed on the computer to upload the backend.
-- Also, it is ** necessary ** to have a package manager either ** [Yarn] (https://yarnpkg.com/) ** or ** [NPM] (https://www.npmjs.com/ ) **.
-- Finally, it is ** essential ** to have ** [Expo] (https://expo.io/) ** installed globally on the machine.
+- It is **necessary** to have **[Java 11](https://www.java.com/)** and **[Spring Boot](https://spring.io/)** installed on computer.
+- It is **necessary** to have **[Git](https://git-scm.com/)** installed and configured on the computer.
+- It is **vital** to have **[Spring Tools Suites](https://spring.io/tools)** installed on the computer to upload the backend.
+- Also, it is **necessary** to have a package manager either **[Yarn](https://yarnpkg.com/)** or **[NPM](https://www.npmjs.com/ )**.
+- Finally, it is **essential** to have **[Expo](https://expo.io/)** installed globally on the machine.
 
 1. Clone the repository:
 
