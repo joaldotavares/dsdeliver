@@ -1,7 +1,7 @@
 import axios from "axios";
 import { OrderPayload } from "./Orders/types";
 
-const API_URL = 'http://localhost:8080';
+const API_URL = 'https://joaldo-dsdeliver.herokuapp.com/';
 
 export function fetchProducts(){
     return axios(`${API_URL}/products`)
