@@ -9,9 +9,6 @@
 <img alt="Design Products" width="650px" src="https://github.com/joaldotavares/dsdeliver/blob/main/backend/src/main/resources/images/product.png?raw=true" />
 
 
-- ### **Mobile Screen**
-
-
 ## About Project
 
 **DS Delivery** is a Web and Mobile application for users who want to register and deliver orders. 
@@ -68,13 +65,7 @@ is related to the order details, having an interface very well informed of the o
   $ npm install # ou yarn add
   # Start the web application
   $ npm start # ou yarn start
-
-  # MOBILE APPLICATION
-  $ cd mobile
-  # Installing the project dependencies.
-  $ npm install # ou yarn add
-  # Start the mobile application
-  $ npm start # ou yarn start
+  
 ```
 
 ## License
