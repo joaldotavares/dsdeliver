@@ -10,9 +10,6 @@ function Footer() {
             DS Deliver - Todos os direitos reservados DevSuperior
 
             <div className='footer-icons'>
-                <a href='' target='_new'>
-                    <YouTubeIcon />
-                </a>
                 <a href='https://www.linkedin.com/in/joaldotavares/'>
                     <LinkedInIcon />
                 </a>
