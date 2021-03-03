@@ -2,7 +2,6 @@ import axios from "axios";
 import { OrderPayload } from "./Orders/types";
 
 const API_URL = 'http://localhost:8080';
-const mapboxToken = process.env.REACT_APP_ACCESS_TOKEN_MAP_BOX;
 
 export function fetchProducts(){
     return axios(`${API_URL}/products`)
