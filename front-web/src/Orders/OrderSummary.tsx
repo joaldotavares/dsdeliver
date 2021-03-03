@@ -11,9 +11,9 @@ function OrderSummary({ amount, totalPrice, onSubmit }: Props) {
         <div className="order-summary-container">
             <div className="order-summary-content">
                 <div>
-                    <span className="amout-selected-conteiner">
+                    <span className="amount-selected-container">
                         <strong className="amount-selected">{amount}</strong>
-                    PEDIDOS SELECIONADOS
+                        PEDIDOS SELECIONADOS
                     </span>
                     <span className="order-summary-total">
                         <strong className="amount-selected">
@@ -22,12 +22,7 @@ function OrderSummary({ amount, totalPrice, onSubmit }: Props) {
                     VALOR TOTAL
                     </span>
                 </div>
-                <button 
-                  className="order-summary-make-order"
-                  onClick={onSubmit}
-                >
-                    FAZER PEDIDO
-                </button>
+                <button className="order-summary-make-order" onClick={onSubmit}>FAZER PEDIDO</button>
             </div>
         </div>
     )
