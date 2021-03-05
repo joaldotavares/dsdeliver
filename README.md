@@ -7,6 +7,7 @@
 - ### **Web Screens**
 <img alt="Design Home" width="650px" src="https://github.com/joaldotavares/dsdeliver/blob/main/backend/src/main/resources/images/home.png?raw=true" />
 <img alt="Design Products" width="650px" src="https://github.com/joaldotavares/dsdeliver/blob/main/backend/src/main/resources/images/product.png?raw=true" />
+<img alt="Design Products, Map and Order" width="650px" src="https://github.com/joaldotavares/dsdeliver/blob/main/backend/src/main/resources/images/products-order.png?raw=true" />
 
 
 ## About Project
@@ -19,8 +20,10 @@ is related to the order details, having an interface very well informed of the o
 
 - [Axios](https://github.com/axios/axios)
 - [Expo](https://expo.io/)
+- [Heroku](https://www.heroku.com/)
 - [Java](https://www.java.com/)
 - [Leaflet](https://leafletjs.com/)
+- [Netlify](https://www.netlify.com/)
 - [NPM](https://www.npmjs.com/)
 - [Mapbox](https://www.mapbox.com/)
 - [PgAdmin](https://www.pgadmin.org/)
